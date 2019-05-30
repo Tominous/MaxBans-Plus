@@ -8,7 +8,7 @@ database:
 
 # Whether the server should be treated as offline. Deleting this line means the servers configuration will be used.
 # This serves as an override. Offline servers use names to uniquely identify players, online servers use their UUID's.
-offline: false
+offline: true
 
 # Each time a player is warned, they receive a strike. This specifies what each of those strikes mean for the player
 warnings:
